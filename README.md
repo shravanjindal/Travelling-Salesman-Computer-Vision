@@ -40,4 +40,4 @@ The model is trained using the resized images and evaluated using test data. The
 
 ## Results
 
-After training for 10 epochs, the model achieves an r2 score of `0.976`, indicating a good fit to the data.
+After training for 15 epochs, the model achieves an r2 score of `0.94` on test datset, indicating a good fit to the data.
